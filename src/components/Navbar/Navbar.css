@@ -1,0 +1,20 @@
+.logo-btn{
+    height: 120px;
+    width: 120px;
+}
+.nav-btn{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin:10px;
+   
+}
+.head-btn{
+    color: #DAA520;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.text-bot{
+    font-size: medium;
+    font-weight: 100;
+}

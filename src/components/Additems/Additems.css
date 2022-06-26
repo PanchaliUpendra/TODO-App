@@ -1,0 +1,43 @@
+.add-btn{
+    margin: 10px;
+    background-color: white;
+}
+.items-btn{
+    margin:10px;
+}
+.input-bar{
+    text-align: center;
+    padding-bottom: 20px;
+    
+}
+.input2-btn{
+    width: 85%;
+    height:31px;
+    background-color:#D9D9D9;
+    color:black;
+}
+.add-head{
+    padding: 10px;
+}
+.but-btn{
+    height: 31px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.datatext{
+    padding-bottom: 0px;
+}
+.pending-btn{
+    padding-left: 30px;
+    color: red;
+    font-weight: bold;
+}
+
+.completed-btn{
+    color: rgb(17, 190, 14);
+    font-weight: bolder;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
