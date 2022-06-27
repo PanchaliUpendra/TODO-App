@@ -6,7 +6,7 @@ function Listitems(props){
       return(
         <div className='item' key={sap.ti}>
                 <div className='wrapper'>
-                    <div className='pract2'><strong>Done</strong></div>
+                    <div className='pract2' onClick={()=>props.comdata(sap.name)}><strong>Done</strong></div>
                 <div className='top'>
                     <div><strong>{sap.name}</strong></div>
                     <div>{`${sap.da} || ${sap.ti}`}</div>

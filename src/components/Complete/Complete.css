@@ -1,0 +1,25 @@
+.angle{
+    margin-left:30px;
+    margin-right: 30px;
+}
+.uppi{
+    margin:30px;
+    margin-top: 0px;
+    background-color: rgb(204, 252, 202);
+    
+  }
+  .uppi2{
+    padding:5px;
+    border: 2px solid green;
+    border-style: hidden hidden solid hidden;
+   
+  }
+  .red-col{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    border-style: hidden;
+    padding: 6px;
+    border-radius: 5px;
+  }
